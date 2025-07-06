@@ -2,12 +2,12 @@ import streamlit as st
 
 st.title("More Pictures")
 
-st.image('/workspaces/sell_piano/images/full_picture.jpg', caption='Full picture')
-st.image('/workspaces/sell_piano/images/inside.jpg', caption='Inside piano')
-st.image('/workspaces/sell_piano/images/keys_uncovered.jpg', caption='Keys')
-st.image('/workspaces/sell_piano/images/keys_cover.jpg', caption='Keyboard cover (included)')
-st.image('/workspaces/sell_piano/images/side.jpg', caption='Side view')
-st.image('/workspaces/sell_piano/images/the_whole_thing.jpg', caption='Full view with pedals')
+st.image('full_picture.jpg', caption='Full picture')
+st.image('inside.jpg', caption='Inside piano')
+st.image('keys_uncovered.jpg', caption='Keys')
+st.image('keys_cover.jpg', caption='Keyboard cover (included)')
+st.image('side.jpg', caption='Side view')
+st.image('the_whole_thing.jpg', caption='Full view with pedals')
 
 st.subheader("Please contact me if interested!")
 

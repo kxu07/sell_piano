@@ -16,5 +16,5 @@ with col1:
     st.markdown('<a href="mailto:kaylaxu@gmail.com">Click here to email me!</a>', unsafe_allow_html=True)
 
 with col2:
-    st.image('/workspaces/sell_piano/images/full_picture.jpg')
-    st.image('/workspaces/sell_piano/images/free_light.jpg')
+    st.image('full_picture.jpg')
+    st.image('free_light.jpg')
