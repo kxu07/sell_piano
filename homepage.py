@@ -10,6 +10,7 @@ with col1:
     st.write("The piano comes with the matching bench (which opens to reveal storage area).")
     st.write("As a bonus, we will add the piano light as a freebie.")
     st.write("For more pictures, please check out the navigation for the pictures tab!")
+    st.write("This piano is in the West Lafayette area; you will be responsible for pickup.")
 
     st.subheader("Please contact me if interested!")
 
